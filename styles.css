@@ -15,7 +15,8 @@ header {
 }
 
 .logo img {
-    max-height: 50px;
+    width: 150px;
+    height: auto;
 }
 
 
